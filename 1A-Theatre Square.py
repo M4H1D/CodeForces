@@ -1,4 +1,3 @@
-from math import gcd as g
 a,b,c=map(int,input().split())
 if a%c==0:
     x=a//c
